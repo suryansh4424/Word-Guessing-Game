@@ -1,0 +1,5 @@
+httpx
+numpy
+sklearn-optimize
+rich
+pyinquirer
