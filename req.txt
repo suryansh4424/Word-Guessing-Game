@@ -1,5 +1,5 @@
 httpx
 numpy
-sklearn-optimize
+scikit-optimize
 rich
 pyinquirer
