@@ -39,7 +39,7 @@ Run Your Script
 
 ## Demo
 
-https://github.com/suryansh4424/Word-Guessing-Game/assets/131521058/cda1c1e8-826a-4747-806a-997bb17b4cf4
+https://github.com/suryansh4424/Word-Guessing-Game/assets/131521058/32ee71a8-27cb-4f7a-9dbb-eb96cf62796e
 
 
 ## Appendix
